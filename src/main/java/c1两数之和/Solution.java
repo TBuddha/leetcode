@@ -1,4 +1,4 @@
-package c1twosum;
+package c1两数之和;
 
 /**
  * 暴力法

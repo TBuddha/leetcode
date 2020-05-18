@@ -1,4 +1,4 @@
-package c1twosum;
+package c1两数之和;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -9,7 +9,7 @@ import java.util.Map;
  * @author zhout
  * @date 2020/5/18 15:09
  */
-class Solution1 {
+class Solution2 {
 
   // 时间复杂度：O(n)，
   // 我们只遍历了包含有 n 个元素的列表一次。在表中进行的每次查找只花费 O(1) 的时间。
