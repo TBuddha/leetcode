@@ -41,7 +41,7 @@ public class SolutionTest {
 
   @Test
   public void solution2() {
-    Solution2 res = new Solution2();
+    Solution1 res = new Solution1();
     System.out.println(res.addTwoNumbers(l1, l2));
   }
 }

@@ -7,7 +7,7 @@ package c2两数相加;
  * @author zhout
  * @date 2020/5/18 16:53
  */
-class Solution2 {
+class Solution1 {
   public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
     ListNode pre = new ListNode(0);
     ListNode cur = pre;

@@ -1,6 +1,7 @@
 package c1两数之和;
 
 /**
+ * 官解，https://leetcode-cn.com/problems/two-sum/solution/liang-shu-zhi-he-by-leetcode-2/
  * 暴力法
  *
  * @author zhout
